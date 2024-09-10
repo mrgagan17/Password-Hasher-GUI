@@ -30,3 +30,4 @@ View the hashed password in the "Hashed Password (SHA-256)" field.
 Click "Clear" to reset both input and output fields.
 
 This Tkinter-based password hasher project demonstrates how to use Python's hashlib library to securely hash passwords using the SHA-256 algorithm, while providing a simple graphical user interface for ease of use. It serves as a practical tool for understanding how password hashing works and how hashes can be generated and displayed.
+
